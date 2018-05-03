@@ -11,8 +11,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 好文！非常详细。<br>
 <img src="https://github.com/kmhealm/kmhealm.github.io/blob/master/images/shine.jpg" />
 
-###系统
-[linux学习网站]（https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/72.html）
+### 系统
+[linux学习网站](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/72.html)
 
 
 ### Markdown
