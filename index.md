@@ -9,8 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [七种网卡绑定模式详解](https://blog.csdn.net/wuweilong/article/details/39720571)<br>
 [深入理解网络](https://wizardforcel.gitbooks.io/network-basic/content/11.html)<br>
 好文！非常详细。<br>
-<img src="https://github.com/kmhealm/kmhealm.github.io/blob/master/images/shine.jpg"  alt="shine" />
-pass
+<img src="https://github.com/kmhealm/kmhealm.github.io/blob/master/images/shine.jpg" />
 
 
 ### Markdown
