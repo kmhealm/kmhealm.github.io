@@ -3,7 +3,7 @@
 ## 网络 :pencil2:
 
 
-> [交换机模式详解（)](https://blog.csdn.net/JesseYoung/article/details/40047749)
+> [交换机模式详解](https://blog.csdn.net/JesseYoung/article/details/40047749)
 
 详细介绍了access trunk hybrid
 
