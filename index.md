@@ -5,6 +5,7 @@ hello！You can use the [editor on GitHub](https://github.com/kmhealm/kmhealm.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
  
 ### 网络
+
 [交换机模式详解（access trunk hybrid)](https://blog.csdn.net/JesseYoung/article/details/40047749)<br>
 [七种网卡绑定模式详解](https://blog.csdn.net/wuweilong/article/details/39720571)<br>
 [深入理解网络](https://wizardforcel.gitbooks.io/network-basic/content/11.html)<br>
@@ -12,8 +13,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <img src="https://github.com/kmhealm/kmhealm.github.io/blob/master/images/shine.jpg" />
 
 ### 系统
-[linux学习网站](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/72.html)
 
+[linux学习网站1](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/72.html)
+[linux学习网站2](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/147.html)
 
 ### Markdown
 
