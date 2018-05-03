@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  
 ### 网络
 [交换机模式详解（access trunk hybrid)](https://blog.csdn.net/JesseYoung/article/details/40047749)<br>
-[七种网卡绑定模式详解](https://blog.csdn.net/wuweilong/article/details/39720571)
+[七种网卡绑定模式详解](https://blog.csdn.net/wuweilong/article/details/39720571)<br>
+[深入理解网络](https://wizardforcel.gitbooks.io/network-basic/content/11.html）
 
 ### python
 pass
