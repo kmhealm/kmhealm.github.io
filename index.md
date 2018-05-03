@@ -5,7 +5,7 @@ hello！You can use the [editor on GitHub](https://github.com/kmhealm/kmhealm.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
  
 ### 网络
-[交换机模式详解（access trunk hybrid)](https://blog.csdn.net/JesseYoung/article/details/40047749)</br>
+[交换机模式详解（access trunk hybrid)](https://blog.csdn.net/JesseYoung/article/details/40047749)<br>
 [七种网卡绑定模式详解](https://blog.csdn.net/wuweilong/article/details/39720571)
 
 ### python
