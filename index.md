@@ -1,50 +1,41 @@
-## Welcome to GitHub Pages
 
-hello！You can use the [editor on GitHub](https://github.com/kmhealm/kmhealm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
- 
-### 网络
-
-[交换机模式详解（access trunk hybrid)](https://blog.csdn.net/JesseYoung/article/details/40047749)<br>
-[七种网卡绑定模式详解](https://blog.csdn.net/wuweilong/article/details/39720571)<br>
-[深入理解网络](https://wizardforcel.gitbooks.io/network-basic/content/11.html)<br>
-好文！非常详细。<br>
-<img src="https://github.com/kmhealm/kmhealm.github.io/blob/master/images/shine.jpg" />
-
-### 系统
+## 系统
 
 [linux学习网站1](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/72.html)
 [linux学习网站2](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/147.html)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 网络 :pencil2:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+> [交换机模式详解（)](https://blog.csdn.net/JesseYoung/article/details/40047749)
 
-- Bulleted
-- List
+详细介绍了access trunk hybrid
 
-1. Numbered
-2. List
+> [深入理解网络](https://wizardforcel.gitbooks.io/network-basic/content/11.html)
 
-**Bold** and _Italic_ and `Code` text
+见到过的最好的网络知识覆盖。
 
-[Link](url) and ![Image](src)
-```
+> [绑定模式详解](https://blog.csdn.net/wuweilong/article/details/39720571)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+七种网卡绑定模式详解
 
-### Jekyll Themes
+## 操作系统 :computer:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmhealm/kmhealm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> [linux操作系统](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/147.html)
 
-### Support or Contact
+鸟哥的linux私房菜
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="https://github.com/kmhealm/kmhealm.github.io/blob/master/images/shine.jpg" />
+
+
+
+
+
+
+You can use the [editor on GitHub](https://github.com/kmhealm/kmhealm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
