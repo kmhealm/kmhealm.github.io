@@ -1,11 +1,5 @@
 
 
-## 系统
-
-[linux学习网站1](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/72.html)
-[linux学习网站2](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/147.html)
-
-
 ## 网络 :pencil2:
 
 
