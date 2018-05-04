@@ -22,6 +22,12 @@
 <img src="https://github.com/kmhealm/kmhealm.github.io/blob/master/images/shine.jpg" />
 
 
+## python
+
+### 常见问题
+     编码: str.encode('gbk')  将str编码为gbk规定的16位一个字节编码,即'h'占用2bytes.
+
+
 
 
 
