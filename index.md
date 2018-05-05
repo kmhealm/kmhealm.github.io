@@ -24,8 +24,13 @@
 
 ## python
 
+> [__func__和__self](https://segmentfault.com/q/1010000005175248)
+
+关于__func__和__self的解释
+
 ### 常见问题
      编码: str.encode('gbk')  将str编码为gbk规定的16位一个字节编码,即'h'占用2bytes.
+
 
 
 
