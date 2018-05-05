@@ -24,10 +24,11 @@
 
 ## python
 
-> [__func__和__self__](https://blog.csdn.net/CLHugh/article/details/75000104)
+> [__self__](https://blog.csdn.net/CLHugh/article/details/75000104)
+关于__self__的解释
 > [__func__和__self__](https://segmentfault.com/q/1010000005175248)
 
-关于__func__和__self的解释
+关于__func__和__self__的解释
 
 
 ### 常见问题
