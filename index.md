@@ -17,7 +17,7 @@
 
 > [linux操作系统](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/147.html)
 
-鸟哥的linux私房菜
+鸟哥的linux私房菜基础班
 
 <img src="https://github.com/kmhealm/kmhealm.github.io/blob/master/images/shine.jpg" />
 
